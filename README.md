@@ -14,7 +14,7 @@ Main result
 -----------
 
 ![Result](https://raw.githubusercontent.com/sirvincent/ga_network_reconfiguration/master/performance.png)
-The genetic algorithm found the lowest power loss achievable in the electrical network used; 869.7272 kW.
+The genetic algorithm found the lowest power loss achievable in the electrical network used; 869.7272 kW within 70 seconds.
 
 Future Work
 -----------
